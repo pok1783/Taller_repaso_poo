@@ -1,0 +1,23 @@
+# Archivos compilados de Java
+*.class
+bin/
+out/
+target/
+
+# Configuracion local de VS Code
+.vscode/*
+!.vscode/settings.json
+
+# Metadatos de otros IDE
+.classpath
+.project
+.settings/
+.vscode/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Registros y archivos temporales de Java
+*.log
+hs_err_pid*.log
